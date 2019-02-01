@@ -1,0 +1,7 @@
+- name: Alice
+  github:
+    admin: true
+    handle: alice84
+- name: Bob
+  github:
+    handle: bob93
