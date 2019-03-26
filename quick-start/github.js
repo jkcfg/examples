@@ -24,4 +24,4 @@ for (const dev of developers) {
     };
 }
 
-std.write(config, 'terraform/github.json');
+std.write(config, 'terraform/github.tf');
