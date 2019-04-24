@@ -1,5 +1,5 @@
 // Import jk standard library for the file writing function.
-import std from 'std';
+import * as std from '@jkcfg/std';
 
 // Define a developer.
 const alice = {

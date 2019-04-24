@@ -13,6 +13,6 @@ export const developers = [{
 }];
 
 /*
-import std from 'std';
+import * as std from '@jkcfg/std';
 std.write(developers, 'developers.yaml');
 */

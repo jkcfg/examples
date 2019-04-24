@@ -1,4 +1,4 @@
-import std from 'std';
+import * as std from '@jkcfg/std';
 import { developers } from 'developers.js';
 
 // Github organization

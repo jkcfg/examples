@@ -1,4 +1,4 @@
-import std from 'std';
+import * as std from '@jkcfg/std';
 
 std.log('Hello, World!');
 
